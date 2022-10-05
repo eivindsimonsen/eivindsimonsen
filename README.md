@@ -28,9 +28,12 @@ I'm a 24 year old fresh frontend developer currently situated in Norway.
 ## ⚡ My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eivindsimonsen&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eivindsimonsen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eivindsimonsen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact
 
-My linkedIn: [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-My portfolio: easimonsen.com
+My linkedIn: [@eivindsimonsen](https://www.linkedin.com/in/eivind-simonsen-9469121b9/) - feel free to contact me!
+My portfolio: [easimonsen.com]
