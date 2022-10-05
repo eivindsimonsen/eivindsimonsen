@@ -31,8 +31,6 @@ I'm a 24 year old fresh frontend developer currently situated in Norway.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eivindsimonsen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eivindsimonsen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Contact
 
 My linkedIn: [@eivindsimonsen](https://www.linkedin.com/in/eivind-simonsen-9469121b9/) - feel free to contact me!
