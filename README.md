@@ -1,7 +1,8 @@
-### Hi there 👋
+![Banner](./images/LinkedIn%20banner.jpg)
 
-<!--
-**eivindsimonsen/eivindsimonsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
+
+## My name is Eivind Simonsen, and welcome to my personal repository!
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
