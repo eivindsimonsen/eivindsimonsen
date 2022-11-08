@@ -8,7 +8,7 @@
 
 I'm a 24 year old fresh frontend developer currently situated in Norway.
 
-- 🔭 I’m currently working on a project for Coop Øst, in which i am tasked in creating an information website for coop employees in east Norway.
+- 🔭 I’m currently working on a project for Coop Øst, in which i am tasked in creating an information website for coop employees in east Norway. You can view the website here https://personalforeningen.netlify.app/
 
 - 🌱 I’m currently learning the REACT library.
 
