@@ -23,6 +23,7 @@ I'm a 24 year old fresh frontend developer currently situated in Norway.
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress REST api" alt="Wordpress REST api" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
 </div>
 
 ## ⚡ My stats:
