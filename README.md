@@ -8,7 +8,7 @@
 
 I'm a 24 year old fresh frontend developer currently situated in Norway.
 
-- 🔭 I’m currently working on a project for Coop Øst, in which i am tasked in creating an information website for coop employees in east Norway. You can view the website here https://personalforeningen.netlify.app/
+- 🔭 I’m currently working on different sets of projects provided by [Frontend Mentor](https://www.frontendmentor.io/challenges) to challenge myself, and become a better developer.
 
 - 🌱 I’m currently learning the REACT library.
 
@@ -24,13 +24,14 @@ I'm a 24 year old fresh frontend developer currently situated in Norway.
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress REST api" alt="Wordpress REST api" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
 </div>
 
 ## ⚡ My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eivindsimonsen&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eivindsimonsen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eivindsimonsen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact
 
