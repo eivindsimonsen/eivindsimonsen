@@ -6,7 +6,7 @@
 
 ## 🔭 About me:
 
-I'm a 24 year old fresh frontend developer currently situated in Norway.
+I'm a 25 year old fresh frontend developer currently situated in Norway.
 
 - 🔭 I’m currently working on different sets of projects provided by [Frontend Mentor](https://www.frontendmentor.io/challenges) to challenge myself, and become a better developer.
 
