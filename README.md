@@ -6,11 +6,11 @@
 
 ## 🔭 About me:
 
-I'm a 25 year old fresh frontend developer currently situated in Norway.
+I'm a 27 year old frontend developer currently situated in Norway.
 
-- 🔭 I’m currently working on different sets of projects provided by [Frontend Mentor](https://www.frontendmentor.io/challenges) to challenge myself, and become a better developer.
+- 🔭 I’m currently working as a CRM Developer at Cloud Connection AS
 
-- 🌱 I’m currently learning the REACT library.
+- 🌱 I’m currently learning the VUE framework.
 
 ## 💬 Languages and tools:
 
@@ -22,9 +22,6 @@ I'm a 25 year old fresh frontend developer currently situated in Norway.
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress REST api" alt="Wordpress REST api" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
 </div>
 
 ## ⚡ My stats:
@@ -36,4 +33,3 @@ I'm a 25 year old fresh frontend developer currently situated in Norway.
 ## 📫 Contact
 
 My linkedIn: [@eivindsimonsen](https://www.linkedin.com/in/eivind-simonsen-9469121b9/) - feel free to contact me!
-My portfolio: [easimonsen.com](https://www.easimonsen.com/)
